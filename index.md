@@ -9,3 +9,8 @@
 
 Hello i am Alain Rohr, teacher in hftm, and i have fun with your project to improve my git capabilities.
 Thanks for the great course.
+
+Alain says:
+
+> Clima is now our main problem.
+> help the earth
